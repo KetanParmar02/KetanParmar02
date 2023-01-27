@@ -3,7 +3,9 @@
 <img src="https://github.com/KetanParmar02/KetanParmar02/blob/main/github-header-image%20(5).png" alt="banner-image" width="1300px">
 
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400px" height="300px">
+
  - 🔭 I’m currently working on **Frontend Development Study.**
 
 - 🌱 I’m currently learning **JAVA+DSA, HTML, CSS, JAVASCRIPT, REACT JS**
