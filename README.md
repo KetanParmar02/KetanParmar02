@@ -43,3 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanparmar02&" alt="ketanparmar02" /></p>
 
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
