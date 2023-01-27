@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JAVA+DSA, HTML, CSS, JAVASCRIPT, REACT JS**
 
-- 📫 How to reach me **kp6750568@gmail.com**
+- 📫 How to reach me **ketan992132@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
