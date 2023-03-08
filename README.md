@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/KetanParmar02/KetanParmar02/blob/main/wave-hand.gif" width="40px" height="40px">, I'm Ketan Parmar</h1>
+<h1 align="center">Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ketan Parmar</h1>
 
 <img src="https://github.com/KetanParmar02/KetanParmar02/blob/main/github-header-image%20(5).png" alt="banner-image" width="1300px">
 
