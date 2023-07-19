@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src =  "https://github.com/KetanParmar02/KetanParmar02/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width = "40px" height = "40px".> I'm Ketan Parmar</h1>
 
-<img src="https://github.com/KetanParmar02/KetanParmar02/blob/main/github-header-image%20(5).png" alt="banner-image" width="1300px">
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400px" height="300px">
@@ -16,7 +14,7 @@
 
 - 💬 Ask me about **JAVA+DSA, HTML, CSS, JAVASCRIPT, REACT JS**
 
-- 📫 How to reach me **ketan992132@gmail.com**
+- 📫 How to reach me **https://twitter.com/ketanstwt**
 
 - ⚡ Fun fact **I am Funny**
 
