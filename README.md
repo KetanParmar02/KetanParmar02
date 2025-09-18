@@ -1,3 +1,8 @@
+### 🐍 Snake Game with My Contributions
+
+![Ketan's Snake animation](https://github.com/ketanparmar/ketanparmar/blob/output/snake.svg)
+
+
 <h1 align="center">Hi <img src =  "https://github.com/KetanParmar02/KetanParmar02/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width = "40px" height = "40px".> I'm Ketan Parmar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
