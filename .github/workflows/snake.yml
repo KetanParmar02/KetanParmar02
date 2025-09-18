@@ -9,10 +9,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 permits to push to repo
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false   # 👈 prevent token conflicts
 
       - name: Generate Snake animation
         uses: Platane/snk@v3
