@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  # Run at 00:00 UTC and 12:00 UTC every day
-  
-  # Allow manual run from the Actions tab
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,6 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
-          # Replace with your GitHub username if different
           github_user_name: KetanParmar02
           outputs: |
             dist/github-contribution-snake.svg
