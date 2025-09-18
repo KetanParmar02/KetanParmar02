@@ -1,7 +1,6 @@
 ### 🐍 Snake Game with My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/KetanParmar02/KetanParmar02/output/snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/KetanParmar02/KetanParmar02/output/github-contribution-snake.svg)
 
 <h1 align="center">Hi <img src =  "https://github.com/KetanParmar02/KetanParmar02/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width = "40px" height = "40px".> I'm Ketan Parmar</h1>
 
