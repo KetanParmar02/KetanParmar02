@@ -1,5 +1,5 @@
-### 🐍 Snake Game with My Contributions  
-![Snake animation](https://raw.githubusercontent.com/KetanParmar02/KetanParmar02/output/github-contribution-snake.svg)
+### 🟡 Pac-Man Contribution Game
+![Pac-Man animation](https://raw.githubusercontent.com/KetanParmar02/KetanParmar02/output/github-contribution-grid-pacman.svg)
 
 <h1 align="center">
   Hi <img src="https://github.com/KetanParmar02/KetanParmar02/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px">  
